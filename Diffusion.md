@@ -42,7 +42,7 @@ One for all: Generalized lora for PEFT
 
 #### Nested Diffusion Processes for Anytime Image Generation
 
-
+#### ReVersion: Diffusion-Based Relation Inversion from Images
 
 
 
@@ -80,7 +80,7 @@ One for all: Generalized lora for PEFT
 
 #### SpaText: Spatio-Textual Representation for Controllable Image Generation
 
-​	训练一个特征表示![image-20230622171056411](image-20230622171056411.png)
+​	训练一个特征表示![image-20231006154107833](Diffusion.assets/image-20231006154107833.png)
 
 
 
@@ -88,7 +88,7 @@ One for all: Generalized lora for PEFT
 
 ​	condition c变为一个Text feature pyramid, classifier-free 暴力训练
 
-![image-20230622171702795](image-20230622171702795.png)
+![image-20231006154212341](Diffusion.assets/image-20231006154212341.png)
 
 
 
@@ -194,7 +194,7 @@ composition diffusion. 使用**constituency tree**或**scene graph**, Parser划�
 
 使用高斯核Smooth Attention Maps
 
-![image-20230624164712385](image-20230624164712385.png)
+![image-20231006154325752](Diffusion.assets/image-20231006154325752.png)
 
 
 
@@ -202,7 +202,7 @@ composition diffusion. 使用**constituency tree**或**scene graph**, Parser划�
 
 GPT-4 text-to-Layout
 
-![image-20230624173249502](image-20230624173249502.png)
+![image-20230624173249502](Diffusion.assets/image-20230624173249502.png)
 
 
 
@@ -240,7 +240,7 @@ single input image
 
 global map concepts, local去除背景
 
-![image-20230625133051025](image-20230625133051025.png)
+![image-20230625133051025](Diffusion.assets/image-20230625133051025.png)
 
 
 
@@ -256,17 +256,17 @@ global map concepts, local去除背景
 
 #### Break-A-Scene: Extracting Multiple Concepts from a Single Image
 
-![image-20230625140354634](image-20230625140354634.png)
+![image-20230625140354634](Diffusion.assets/image-20230625140354634.png)
 
 Single image input multiple concepts output.
 
-![image-20230625141651551](image-20230625141651551.png)
+![image-20230625141651551](Diffusion.assets/image-20230625141651551.png)
 
 
 
 ####  Paint by Example: Exemplar-based Image Editing with Diffusion Models
 
-![](image-20230625143541255.png)
+![](Diffusion.assets/image-20230625143541255.png)
 
 
 
@@ -274,7 +274,7 @@ Single image input multiple concepts output.
 
 预训练
 
-![image-20230625150427742](image-20230625150427742.png)
+![image-20230625150427742](Diffusion.assets/image-20230625150427742.png)
 
 
 

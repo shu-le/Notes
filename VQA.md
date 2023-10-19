@@ -1,6 +1,16 @@
-# Video quality Assessment
+## Paper
+
+#### [Imagereward: Learning and evaluating human preferences for text-to-image generation](https://arxiv.org/abs/2304.05977)
+
+#### [ImagenHub: Standardizing the evaluation of conditional image generation models](https://arxiv.org/abs/2310.01596)
+
+#### [Measuring the Quality of Text-to-Video Model Outputs: Metrics and Dataset](https://arxiv.org/abs/2309.08009)
+
+#### [What You See is What You Read? Improving Text-Image Alignment Evaluation](https://arxiv.org/abs/2305.10400)
 
 
+
+## VQA
 
 #### FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling(ECCV 2022)
 
