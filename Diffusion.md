@@ -374,7 +374,11 @@ Cons: need pretrain in single domain, can't generalize to other domain.
 
 3. **Data** use two frame in same video. 
 
-   
+
+
+#### FABRIC: Personalizing Diffusion Models with Iterative Feedback
+
+
 
 ## Video
 
