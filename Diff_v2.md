@@ -20,6 +20,10 @@
 
 [DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models](https://huggingface.co/papers/2309.06933)
 
+Controlling Text-to-Image Diffusion by Orthogonal Finetuning
+
+Continuous Layout Editing of Single Images with Diffusion Models
+
 
 
 ## Video diffusion
@@ -51,3 +55,37 @@
 [Diffusion Generative Inverse Design](https://huggingface.co/papers/2309.02040)
 
 [Generative Image Dynamics](https://huggingface.co/papers/2309.07906)
+
+
+
+## 3D
+
+DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model
+
+Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models
+
+Zero-1-to-3: Zero-shot One Image to 3D Object
+
+DREAMGAUSSIAN: GENERATIVE GAUSSIAN SPLATTING FOR EFFICIENT 3D CONTENT CREATION
+
+## Other
+
+SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models
+
+PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment
+
+Generate Anything Anywhere in Any Scene
+
+Benchmarking Large Language Model Capabilities for Conditional Generation
+
+StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners
+
+Wuerstchen: Efficient Pretraining of Text-to-Image Models
+
+DomainStudio: Fine-Tuning Diffusion Models for Domain-Driven Image Generation using Limited Data
+
+Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision
+
+Image Captioners Are Scalable Vision Learners Too
+
+InstructDiffusion: A Generalist Modeling Interface for Vision Tasks
