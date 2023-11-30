@@ -134,6 +134,10 @@ text, layout, line art, pose, etc 组合起来
 
 
 
+#### Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis
+
+ICLR2023
+
 
 
 ### Editing
