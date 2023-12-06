@@ -6,7 +6,9 @@
 
 [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://huggingface.co/papers/2309.15807)
 
+[DreamSync: Aligning Text-to-Image Generation with Image Understanding Feedback](https://arxiv.org/abs/2311.17946)
 
+​		使用这个pipeline
 
 ## Control diffusion
 
@@ -44,7 +46,8 @@ Continuous Layout Editing of Single Images with Diffusion Models
 
 [Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation](https://huggingface.co/papers/2309.03549)
 
-[LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://huggingface.co/papers/2309.15103)
+- [x] [LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://huggingface.co/papers/2309.15103) 
+
 
 [VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning](https://huggingface.co/papers/2309.15091)
 

@@ -97,8 +97,17 @@ Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluatio
 
 ![截屏2023-09-12 01.56.35](./VQA.assets/2023-09-12%2001.56.35.png)
 
+#### Mean Opinion Score (MOS)
+
+### Data filter
+
+[Data Filtering Networks](https://arxiv.org/abs/2309.17425)
+
+[SIEVE: Multimodal Dataset Pruning Using Image Captioning Models](https://arxiv.org/abs/2310.02110)
 
 
-想法：先搞一个image的，然后拓展到video和3D上
 
-video 注重和文本的匹配度和本身的一致性
+### Dataset
+
+HQITP-350M
+
