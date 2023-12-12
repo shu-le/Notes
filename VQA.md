@@ -26,6 +26,16 @@
 
 [FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation](https://arxiv.org/abs/2311.01813)
 
+[Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation](https://arxiv.org/abs/2310.18235)
+
+
+
+## Improving
+
+[Optimizing Prompts for Text-to-Image Generation](https://arxiv.org/abs/2212.09611)
+
+
+
 
 
 ## VQA
@@ -110,4 +120,17 @@ Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluatio
 ### Dataset
 
 HQITP-350M
+
+
+
+- [x] Prompt parser
+- [x] Prepare data: DataComp_medium_pool_BLIP2_captions
+- [ ] Cluster data
+- [ ] Extract ROI feature
+- [ ] Extract Position feature
+- [ ] Extract motion feature
+
+
+
+- [ ] stable diffusion + DOVER train
 
