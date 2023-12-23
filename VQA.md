@@ -28,13 +28,21 @@
 
 [Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation](https://arxiv.org/abs/2310.18235)
 
+[Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback](https://arxiv.org/abs/2307.04749)
+
+HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
+
 
 
 ## Improving
 
 [Optimizing Prompts for Text-to-Image Generation](https://arxiv.org/abs/2212.09611)
 
+[Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.14408)
 
+## Self-training LLM
+
+[Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
 
 
 

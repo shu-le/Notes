@@ -28,6 +28,16 @@ Continuous Layout Editing of Single Images with Diffusion Models
 
 
 
+##  Attribute Binding
+
+Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment
+
+Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models
+
+Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models
+
+
+
 ## Video diffusion
 
 [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725)

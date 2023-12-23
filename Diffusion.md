@@ -192,7 +192,7 @@ google research出品，修改attention map和激活层
 
 composition diffusion. 使用**constituency tree**或**scene graph**, Parser划分名词短语。修改V键
 
-
+ICLR 2023
 
 #### Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models
 
@@ -236,7 +236,7 @@ weight offsets
 
 
 
-####  ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation
+####  ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation(ICCV 23 oral)
 
 Global mapping 和 Local mapping.
 

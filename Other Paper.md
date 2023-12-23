@@ -13,3 +13,11 @@
 prompt domain generalization -> image domain generalization, without any images. 通过prompt  synthesize other style in vision-language space.
 
 a totally new training paradigm, where we train a classifier using text features while running an inference with the classifier using image features.
+
+
+
+## Language_based Detector
+
+[OmniLabel: A Challenging Benchmark for Language-Based Object Detection](https://arxiv.org/abs/2304.11463)
+
+Grounded Language-Image Pre-training(GLIP, CVPR 22)
