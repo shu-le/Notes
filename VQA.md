@@ -40,6 +40,10 @@ HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
 
 [Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.14408)
 
+[Shadows Don’t Lie and Lines Can’t Bend! Generative Models don’t know Projective Geometry...for now]
+
+[Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](https://arxiv.org/abs/2401.05675) Story
+
 ## Self-training LLM
 
 [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)

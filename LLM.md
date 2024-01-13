@@ -1,5 +1,7 @@
 #### Visual Instruction Tuning, LLaVA: Large Language and Vision Assistant
 
+[A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook](https://arxiv.org/abs/2312.11562)
+
 
 
 ### Open Vocabulary Survey
