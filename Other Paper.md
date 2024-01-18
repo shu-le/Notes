@@ -21,3 +21,26 @@ a totally new training paradigm, where we train a classifier using text features
 [OmniLabel: A Challenging Benchmark for Language-Based Object Detection](https://arxiv.org/abs/2304.11463)
 
 Grounded Language-Image Pre-training(GLIP, CVPR 22)
+
+
+
+Data Scale
+
+[Scaling Laws of Synthetic Images for Model Training ... for Now](https://arxiv.org/abs/2312.04567)
+
+[StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](https://arxiv.org/abs/2306.00984)
+
+[Learning Vision from Models Rivals Learning Vision from Data](https://arxiv.org/abs/2312.17742)
+
+
+
+Composite RM
+
+[Confronting Reward Model Overoptimization With Constrained RLHF](https://openreview.net/attachment?id=gkfUvn0fLU&name=pdf)
+
+RM
+
+[Rrhf: Rank responses to align language models with human feedback without tears]
+
+[Scaling laws for reward model overoptimization]
+
