@@ -24,7 +24,7 @@ Grounded Language-Image Pre-training(GLIP, CVPR 22)
 
 
 
-Data Scale
+#### Data Scale
 
 [Scaling Laws of Synthetic Images for Model Training ... for Now](https://arxiv.org/abs/2312.04567)
 
@@ -34,13 +34,25 @@ Data Scale
 
 
 
-Composite RM
+#### Composite RM
 
 [Confronting Reward Model Overoptimization With Constrained RLHF](https://openreview.net/attachment?id=gkfUvn0fLU&name=pdf)
 
-RM
+
+
+#### RM
 
 [Rrhf: Rank responses to align language models with human feedback without tears]
 
 [Scaling laws for reward model overoptimization]
+
+[[Confronting Reward Model Overoptimization with Constrained RLHF](https://openreview.net/forum?id=gkfUvn0fLU)]
+
+[[Improving Generalization of Alignment with Human Preferences through Group Invariant Learning](https://openreview.net/forum?id=fwCoLe3TAX)]
+
+
+
+#### MoE
+
+[[From Sparse to Soft Mixtures of Experts](https://openreview.net/forum?id=jxpsAj7ltE)]
 
