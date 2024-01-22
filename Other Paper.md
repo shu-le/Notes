@@ -56,3 +56,13 @@ Grounded Language-Image Pre-training(GLIP, CVPR 22)
 
 [[From Sparse to Soft Mixtures of Experts](https://openreview.net/forum?id=jxpsAj7ltE)]
 
+
+
+#### Lora
+
+[LoRaHub: Efficient Cross-Task Generalization via Dynamic LoRa Composition](https://arxiv.org/abs/2307.13269)
+
+[Batched Low-Rank Adaptation of Foundation Models](https://openreview.net/pdf?id=w4abltTZ2f)
+
+
+
