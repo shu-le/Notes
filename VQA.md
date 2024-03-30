@@ -44,6 +44,14 @@ HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
 
 [Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](https://arxiv.org/abs/2401.05675) Story
 
+[Large-scale Reinforcement Learning for Diffusion Models](https://arxiv.org/abs/2401.12244)
+
+[Using Human Feedback to Fine-Tune Diffusion Models Without Any Reward Model](https://arxiv.org/abs/2311.13231)
+
+TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification
+
+
+
 ## Self-training LLM
 
 [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
@@ -132,17 +140,3 @@ Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluatio
 ### Dataset
 
 HQITP-350M
-
-
-
-- [x] Prompt parser
-- [x] Prepare data: DataComp_medium_pool_BLIP2_captions
-- [ ] Cluster data
-- [ ] Extract ROI feature
-- [ ] Extract Position feature
-- [ ] Extract motion feature
-
-
-
-- [ ] stable diffusion + DOVER train
-

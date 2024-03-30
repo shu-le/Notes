@@ -50,6 +50,8 @@ Grounded Language-Image Pre-training(GLIP, CVPR 22)
 
 [[Improving Generalization of Alignment with Human Preferences through Group Invariant Learning](https://openreview.net/forum?id=fwCoLe3TAX)]
 
+Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation
+
 
 
 #### MoE
@@ -66,3 +68,6 @@ Grounded Language-Image Pre-training(GLIP, CVPR 22)
 
 
 
+SDXL-Lightning: Progressive Adversarial Diffusion Distillation
+
+Self-Correcting Self-Consuming Loops for Generative Model Training
