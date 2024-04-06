@@ -61,7 +61,25 @@ Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusio
 
 [VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning](https://huggingface.co/papers/2309.15091)
 
+VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation
 
+​	训练帧之间的残差
+
+### DIT 
+
+Image:
+
+(DiT) Scalable diffusion models with transformers
+
+(U-ViT) All are worth words: A vit backbone for diffusion models
+
+PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
+
+
+
+video:
+
+Latte: Latent Diffusion Transformer for Video Generation
 
 
 
