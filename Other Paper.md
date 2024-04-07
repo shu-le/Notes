@@ -71,3 +71,15 @@ Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to
 SDXL-Lightning: Progressive Adversarial Diffusion Distillation
 
 Self-Correcting Self-Consuming Loops for Generative Model Training
+
+
+
+#### Optimize
+
+DPO
+
+DDPO
+
+KTO: Model Alignment as Prospect Theoretic Optimization
+
+ORPO: Monolithic Preference Optimization without Reference Model
