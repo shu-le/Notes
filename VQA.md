@@ -32,6 +32,10 @@
 
 HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
 
+**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore** 
+
+​		Meta-metrics， 评估不同metric性能
+
 
 
 ## Improving
@@ -50,7 +54,9 @@ HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
 
 TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification
 
+**Dynamic Prompt Optimizing for Text-to-Image Generation**
 
+​	RL train LLM prompt
 
 ## Self-training LLM
 
