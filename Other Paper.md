@@ -76,10 +76,25 @@ Self-Correcting Self-Consuming Loops for Generative Model Training
 
 #### Optimize
 
+Aligning Text-to-Image Models using Human Feedback
+
+Training Diffusion Models with Reinforcement Learning(DDPO)
+
+ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation
+
+DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models
+
+Better Aligning Text-to-Image Models with Human Preference
+
+Directly Fine-Tuning Diffusion Models on Differentiable Rewards(DRaFT)
+
+
+
 DPO
 
-DDPO
+Diffusion-DPO
 
 KTO: Model Alignment as Prospect Theoretic Optimization
 
 ORPO: Monolithic Preference Optimization without Reference Model
+
