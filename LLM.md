@@ -7,3 +7,9 @@
 ### Open Vocabulary Survey
 
 > The critical difference between zero-shot and open vocabulary is that open vocabulary can use **visual-related language vocabulary data** like image captions as auxiliary supervision.
+
+
+
+### Survey
+
+MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training
