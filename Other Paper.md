@@ -90,7 +90,7 @@ Directly Fine-Tuning Diffusion Models on Differentiable Rewards(DRaFT)
 
 
 
-DPO
+#### DPO
 
 Diffusion-DPO
 
@@ -98,3 +98,8 @@ KTO: Model Alignment as Prospect Theoretic Optimization
 
 ORPO: Monolithic Preference Optimization without Reference Model
 
+From r to Q∗ : Your Language Model is Secretly a Q-Function
+
+#### 解耦
+
+MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation

@@ -75,6 +75,8 @@ Image:
 
 PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
 
+Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers
+
 
 
 video:
