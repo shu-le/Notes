@@ -38,6 +38,8 @@ HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
 
 
 
+Evaluating Text-to-Visual Generation with Image-to-Text Generation
+
 ## Improving
 
 [Optimizing Prompts for Text-to-Image Generation](https://arxiv.org/abs/2212.09611)
@@ -57,6 +59,10 @@ TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification
 **Dynamic Prompt Optimizing for Text-to-Image Generation**
 
 ​	RL train LLM prompt
+
+CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching
+
+UniFL: Improve Stable Diffusion via Unified Feedback Learning
 
 ## Self-training LLM
 
