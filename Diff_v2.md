@@ -87,6 +87,8 @@ Delving Deep into Diffusion Transformers for Image and Video Generation
 
 ​	提出一种方法解决video质量相比image质量下降的问题
 
+Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers
+
 
 
 [Diffusion Generative Inverse Design](https://huggingface.co/papers/2309.02040)

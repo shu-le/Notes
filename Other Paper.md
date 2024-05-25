@@ -88,7 +88,7 @@ Better Aligning Text-to-Image Models with Human Preference
 
 Directly Fine-Tuning Diffusion Models on Differentiable Rewards(DRaFT)
 
-
+PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models
 
 #### DPO
 
