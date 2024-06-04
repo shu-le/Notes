@@ -64,6 +64,12 @@ CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matchin
 
 UniFL: Improve Stable Diffusion via Unified Feedback Learning
 
+#### Human feedback
+
+[Rich Human Feedback for Text-to-lmage Generation](https://arxiv.org/abs/2312.10240)(CVPR24)
+
+
+
 ## Self-training LLM
 
 [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)

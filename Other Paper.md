@@ -56,7 +56,7 @@ Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to
 
 #### MoE
 
-[[From Sparse to Soft Mixtures of Experts](https://openreview.net/forum?id=jxpsAj7ltE)]
+[From Sparse to Soft Mixtures of Experts](https://openreview.net/forum?id=jxpsAj7ltE)
 
 
 
@@ -90,15 +90,25 @@ Directly Fine-Tuning Diffusion Models on Differentiable Rewards(DRaFT)
 
 PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models
 
-#### DPO
+#### DPO and RLHF
 
 Diffusion-DPO
+
+[Statistical Rejection Sampling Improves Preference Optimization](https://arxiv.org/abs/2309.06657)
 
 KTO: Model Alignment as Prospect Theoretic Optimization
 
 ORPO: Monolithic Preference Optimization without Reference Model
 
 From r to Q∗ : Your Language Model is Secretly a Q-Function
+
+IPO:  A general theoretical paradigm to understand learning from human preferences.
+
+
+
+[Direct Preference Optimization With Unobserved Preference Heterogeneity](https://arxiv.org/abs/2405.15065)
+
+
 
 #### 解耦
 
