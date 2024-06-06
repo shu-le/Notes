@@ -44,8 +44,6 @@ Evaluating Text-to-Visual Generation with Image-to-Text Generation
 
 [Optimizing Prompts for Text-to-Image Generation](https://arxiv.org/abs/2212.09611)
 
-[Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.14408)
-
 [Shadows Don’t Lie and Lines Can’t Bend! Generative Models don’t know Projective Geometry...for now]
 
 [Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](https://arxiv.org/abs/2401.05675) Story
@@ -67,6 +65,10 @@ UniFL: Improve Stable Diffusion via Unified Feedback Learning
 #### Human feedback
 
 [Rich Human Feedback for Text-to-lmage Generation](https://arxiv.org/abs/2312.10240)(CVPR24)
+
+### Reward 
+
+[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/abs/2312.00849)
 
 
 

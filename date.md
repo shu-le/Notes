@@ -2,15 +2,19 @@
 
 Long-CLIP: Unlocking the Long-Text Capability of CLIP
 
+[What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885) 解释sd
 
 
-ICML: 
+
+ICML24: 
 
 [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2402.00782)
 
-
+[Generative Active Learning for Long-tailed Instance Segmentation](https://arxiv.org/abs/2406.02435) 
 
 Visual-Language Models as Fuzzy Rewards for Reinforcement Learning
+
+
 
 video:
 
@@ -24,7 +28,33 @@ NeurIPS
 
 ​	[Information Theoretic Text-to-Image Alignment](https://arxiv.org/abs/2405.20759)
 
+​	Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback
 
+​	[Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms](https://arxiv.org/abs/2406.02900)
+
+
+
+​	Video:
+
+​	[Searching Priors Makes Text-to-Video Synthesis Better](https://arxiv.org/abs/2406.03215)
+
+​	
+
+​	Image: 
+
+​	[Text-to-Image Rectified Flow as Plug-and-Play Priors](https://arxiv.org/abs/2406.03293)
+
+​	[Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision](https://arxiv.org/abs/2406.03051) (Mixture of Adapters)
+
+​	[Understanding the Impact of Negative Prompts: When and How Do They Take Effect?](https://arxiv.org/abs/2406.02965)
+
+​	
+
+
+
+​	Evaluate:
+
+​	[A-Bench: Are LMMs Masters at Evaluating AI-generated Images?](https://arxiv.org/abs/2406.03070) Benchmark
 
 
 

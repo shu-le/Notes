@@ -74,7 +74,7 @@ Self-Correcting Self-Consuming Loops for Generative Model Training
 
 
 
-#### Optimize
+#### RLHF
 
 Aligning Text-to-Image Models using Human Feedback
 
@@ -104,9 +104,11 @@ From r to Q∗ : Your Language Model is Secretly a Q-Function
 
 IPO:  A general theoretical paradigm to understand learning from human preferences.
 
-
+[Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms](https://arxiv.org/abs/2406.02900)
 
 [Direct Preference Optimization With Unobserved Preference Heterogeneity](https://arxiv.org/abs/2405.15065)
+
+[Adaptive Preference Scaling for Reinforcement Learning with Human Feedback](https://arxiv.org/abs/2406.02764) **Scale DPO**
 
 
 
