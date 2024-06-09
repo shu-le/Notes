@@ -32,13 +32,21 @@ NeurIPS
 
 ​	[Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms](https://arxiv.org/abs/2406.02900)
 
+​	[Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step](https://arxiv.org/abs/2406.04314)
+
+​	
+
 
 
 ​	Video:
 
 ​	[Searching Priors Makes Text-to-Video Synthesis Better](https://arxiv.org/abs/2406.03215)
 
+​	[ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](https://arxiv.org/abs/2406.04325)
+
 ​	
+
+
 
 ​	Image: 
 
@@ -48,8 +56,6 @@ NeurIPS
 
 ​	[Understanding the Impact of Negative Prompts: When and How Do They Take Effect?](https://arxiv.org/abs/2406.02965)
 
-​	
-
 
 
 ​	Evaluate:
@@ -57,6 +63,14 @@ NeurIPS
 ​	[A-Bench: Are LMMs Masters at Evaluating AI-generated Images?](https://arxiv.org/abs/2406.03070) Benchmark
 
 
+
+​	Gaussian:
+
+​	[Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/abs/2406.04338)
+
+​	[Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image](https://arxiv.org/abs/2406.04343)
+
+​	
 
 待看:
 
