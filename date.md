@@ -34,9 +34,11 @@ NeurIPS
 
 ​	[Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step](https://arxiv.org/abs/2406.04314)
 
+​	[Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization](https://arxiv.org/abs/2405.18881)
+
+​	[ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization](https://arxiv.org/abs/2406.04312)
+
 ​	
-
-
 
 ​	Video:
 
@@ -44,7 +46,7 @@ NeurIPS
 
 ​	[ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](https://arxiv.org/abs/2406.04325)
 
-​	
+​	[VIDEOPHY: Evaluating Physical Commonsense for Video Generation](https://arxiv.org/abs/2406.03520)
 
 
 
