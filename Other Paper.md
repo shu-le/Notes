@@ -98,6 +98,8 @@ Diffusion-DPO
 
 KTO: Model Alignment as Prospect Theoretic Optimization
 
+[Relative Preference Optimization: Enhancing LLM Alignment through Contrasting Responses across Identical and Diverse Prompts](https://arxiv.org/abs/2402.10958) RPO
+
 ORPO: Monolithic Preference Optimization without Reference Model
 
 From r to Q∗ : Your Language Model is Secretly a Q-Function

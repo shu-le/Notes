@@ -4,6 +4,8 @@ Long-CLIP: Unlocking the Long-Text Capability of CLIP
 
 [What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885) 解释sd
 
+[Distributional Preference Alignment of LLMs via Optimal Transport](https://arxiv.org/abs/2406.05882)
+
 
 
 ICML24: 
@@ -38,7 +40,17 @@ NeurIPS
 
 ​	[ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization](https://arxiv.org/abs/2406.04312)
 
-​	
+​	[Margin-aware Preference Optimization for Aligning Diffusion Models without Reference](https://arxiv.org/abs/2406.06424) ORPO
+
+​	[Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization](https://arxiv.org/abs/2406.06382)
+
+​		Two insights: preference learning and conditional transport framework, a new downstream task with datasets specifically designed for image preference learning
+
+​	[Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/abs/2406.05534)
+
+
+
+
 
 ​	Video:
 
@@ -47,6 +59,10 @@ NeurIPS
 ​	[ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](https://arxiv.org/abs/2406.04325)
 
 ​	[VIDEOPHY: Evaluating Physical Commonsense for Video Generation](https://arxiv.org/abs/2406.03520)
+
+​	[Vript: A Video Is Worth Thousands of Words](https://arxiv.org/abs/2406.06040)
+
+
 
 
 
@@ -58,11 +74,17 @@ NeurIPS
 
 ​	[Understanding the Impact of Negative Prompts: When and How Do They Take Effect?](https://arxiv.org/abs/2406.02965)
 
+​	[Guiding a Diffusion Model with a Bad Version of Itself](https://arxiv.org/abs/2406.02507)
 
+​	
 
 ​	Evaluate:
 
 ​	[A-Bench: Are LMMs Masters at Evaluating AI-generated Images?](https://arxiv.org/abs/2406.03070) Benchmark
+
+​	[GAIA: Rethinking Action Quality Assessment for AI-Generated Videos](https://arxiv.org/abs/2406.06087)
+
+
 
 
 
