@@ -58,6 +58,8 @@ Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to
 
 [From Sparse to Soft Mixtures of Experts](https://openreview.net/forum?id=jxpsAj7ltE)
 
+Skywork-MoE: A Deep Dive into **Training Techniques** for Mixture-of-Experts Language Models
+
 
 
 #### Lora

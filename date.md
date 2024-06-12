@@ -6,6 +6,10 @@ Long-CLIP: Unlocking the Long-Text Capability of CLIP
 
 [Distributional Preference Alignment of LLMs via Optimal Transport](https://arxiv.org/abs/2406.05882)
 
+[Multi-objective Reinforcement learning from AI Feedback](https://arxiv.org/abs/2406.07295)
+
+[Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback](https://arxiv.org/abs/2406.06874)
+
 
 
 ICML24: 
@@ -48,7 +52,9 @@ NeurIPS
 
 ​	[Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/abs/2406.05534)
 
+​	[3D-Properties: Identifying Challenges in DPO and Charting a Path Forward](https://arxiv.org/abs/2406.07327)
 
+​	
 
 
 
@@ -76,13 +82,21 @@ NeurIPS
 
 ​	[Guiding a Diffusion Model with a Bad Version of Itself](https://arxiv.org/abs/2406.02507)
 
-​	
+​	[An Image is Worth 32 Tokens for Reconstruction and Generation](https://arxiv.org/abs/2406.07550)
 
-​	Evaluate:
+​	[Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance](https://arxiv.org/abs/2406.07540)
+
+
+
+
+
+​	Evaluate and Benchmark:
 
 ​	[A-Bench: Are LMMs Masters at Evaluating AI-generated Images?](https://arxiv.org/abs/2406.03070) Benchmark
 
 ​	[GAIA: Rethinking Action Quality Assessment for AI-Generated Videos](https://arxiv.org/abs/2406.06087)
+
+​	[Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?](https://arxiv.org/abs/2406.07546)
 
 
 
