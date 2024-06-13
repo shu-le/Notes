@@ -10,6 +10,10 @@ Long-CLIP: Unlocking the Long-Text Capability of CLIP
 
 [Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback](https://arxiv.org/abs/2406.06874)
 
+[Direct Language Model Alignment from Online AI Feedback](https://arxiv.org/abs/2402.04792) 各种算法Online差别不大但都比Offline好
+
+[DPO Meets PPO: Reinforced Token Optimization for RLHF](https://arxiv.org/pdf/2404.18922)
+
 
 
 ICML24: 
@@ -19,6 +23,8 @@ ICML24:
 [Generative Active Learning for Long-tailed Instance Segmentation](https://arxiv.org/abs/2406.02435) 
 
 Visual-Language Models as Fuzzy Rewards for Reinforcement Learning
+
+[Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint](https://arxiv.org/abs/2312.11456)
 
 
 
@@ -54,7 +60,7 @@ NeurIPS
 
 ​	[3D-Properties: Identifying Challenges in DPO and Charting a Path Forward](https://arxiv.org/abs/2406.07327)
 
-​	
+​	[OPTune: Efficient Online Preference Tuning](https://arxiv.org/abs/2406.07657)
 
 
 
@@ -109,6 +115,14 @@ NeurIPS
 ​	[Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image](https://arxiv.org/abs/2406.04343)
 
 ​	
+
+ECCV
+
+​	[Diffusion Soup: Model Merging for Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.08431)
+
+​	
+
+
 
 待看:
 
