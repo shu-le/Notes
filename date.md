@@ -62,6 +62,8 @@ NeurIPS
 
 ​	[OPTune: Efficient Online Preference Tuning](https://arxiv.org/abs/2406.07657)
 
+​	[Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms](https://arxiv.org/abs/2406.09397)
+
 
 
 ​	Video:
@@ -92,7 +94,7 @@ NeurIPS
 
 ​	[Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance](https://arxiv.org/abs/2406.07540)
 
-
+​	[Interpreting the Weight Space of Customized Diffusion Models](https://arxiv.org/abs/2406.09413)
 
 
 
@@ -104,7 +106,9 @@ NeurIPS
 
 ​	[Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?](https://arxiv.org/abs/2406.07546)
 
+​	[Rethinking Human Evaluation Protocol for Text-to-Video Models: Enhancing Reliability,Reproducibility, and Practicality](https://arxiv.org/abs/2406.08845)
 
+​	[TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation](https://arxiv.org/abs/2406.08656)
 
 
 
