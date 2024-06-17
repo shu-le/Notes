@@ -26,6 +26,12 @@ Visual-Language Models as Fuzzy Rewards for Reinforcement Learning
 
 [Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint](https://arxiv.org/abs/2312.11456)
 
+[Token-level Direct Preference Optimization](https://arxiv.org/abs/2404.11999)
+
+[Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences](https://arxiv.org/abs/2403.01857)
+
+[A Dense Reward View on Aligning Text-to-Image Diffusion with Preference](https://arxiv.org/abs/2402.08265)
+
 
 
 video:
@@ -64,7 +70,11 @@ NeurIPS
 
 ​	[Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms](https://arxiv.org/abs/2406.09397)
 
+​	[Online Bandit Learning with Offline Preference Data](https://arxiv.org/abs/2406.09574)
 
+​	[Bootstrapping Language Models with DPO Implicit Rewards](https://arxiv.org/abs/2406.09760)
+
+​	
 
 ​	Video:
 
@@ -75,8 +85,6 @@ NeurIPS
 ​	[VIDEOPHY: Evaluating Physical Commonsense for Video Generation](https://arxiv.org/abs/2406.03520)
 
 ​	[Vript: A Video Is Worth Thousands of Words](https://arxiv.org/abs/2406.06040)
-
-
 
 
 
@@ -110,6 +118,8 @@ NeurIPS
 
 ​	[TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation](https://arxiv.org/abs/2406.08656)
 
+​	[VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://arxiv.org/abs/2406.10227)
+
 
 
 ​	Gaussian:
@@ -125,6 +135,10 @@ ECCV
 ​	[Diffusion Soup: Model Merging for Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.08431)
 
 ​	
+
+CVPR:
+
+​	[InstructRL4Pix: Training Diffusion for Image Editing by Reinforcement Learning](https://arxiv.org/abs/2406.09973)
 
 
 

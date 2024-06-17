@@ -114,6 +114,8 @@ IPO:  A general theoretical paradigm to understand learning from human preferenc
 
 [Adaptive Preference Scaling for Reinforcement Learning with Human Feedback](https://arxiv.org/abs/2406.02764) **Scale DPO**
 
+[Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences](https://arxiv.org/abs/2404.03715)
+
 
 
 #### 解耦
