@@ -1,1 +1,0 @@
-Neural Implicit Morphing of Face Images
