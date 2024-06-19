@@ -14,6 +14,10 @@ Long-CLIP: Unlocking the Long-Text Capability of CLIP
 
 [DPO Meets PPO: Reinforced Token Optimization for RLHF](https://arxiv.org/pdf/2404.18922)
 
+[Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts](https://arxiv.org/abs/2406.12845)
+
+[Understanding the performance gap between online and offline alignment algorithms](https://arxiv.org/abs/2405.08448)
+
 
 
 ICML24: 
