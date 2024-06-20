@@ -138,6 +138,10 @@ ECCV
 
 ​	[Diffusion Soup: Model Merging for Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.08431)
 
+
+
+​	[LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054)
+
 ​	
 
 CVPR:
