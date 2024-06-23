@@ -16,6 +16,8 @@ RLHF:
 
 ​	Rich Human Feedback for Text-to-Image Generation
 
+​	Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
+
 
 
 Image:

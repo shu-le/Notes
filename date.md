@@ -78,7 +78,9 @@ NeurIPS
 
 ​	[Bootstrapping Language Models with DPO Implicit Rewards](https://arxiv.org/abs/2406.09760)
 
-​	
+​	[SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset](https://arxiv.org/abs/2406.14477)
+
+
 
 ​	Video:
 
@@ -89,6 +91,8 @@ NeurIPS
 ​	[VIDEOPHY: Evaluating Physical Commonsense for Video Generation](https://arxiv.org/abs/2406.03520)
 
 ​	[Vript: A Video Is Worth Thousands of Words](https://arxiv.org/abs/2406.06040)
+
+​	[**Splatter a Video: Video Gaussian Representation for Versatile Processing**](https://arxiv.org/abs/2406.13870)
 
 
 
@@ -124,6 +128,8 @@ NeurIPS
 
 ​	[VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://arxiv.org/abs/2406.10227)
 
+​	[GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation](https://arxiv.org/abs/2406.13743)
+
 
 
 ​	Gaussian:
@@ -131,6 +137,8 @@ NeurIPS
 ​	[Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/abs/2406.04338)
 
 ​	[Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image](https://arxiv.org/abs/2406.04343)
+
+​	[L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324)
 
 ​	
 

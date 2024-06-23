@@ -86,9 +86,9 @@ ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generat
 
 DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models
 
-Better Aligning Text-to-Image Models with Human Preference
+Human Preference Score: Better Aligning Text-to-Image Models with Human Preference
 
-Directly Fine-Tuning Diffusion Models on Differentiable Rewards(DRaFT)
+Directly Fine-Tuning Diffusion Models on Differentiable Rewards(DRaFT) (ICLR24)
 
 PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models
 

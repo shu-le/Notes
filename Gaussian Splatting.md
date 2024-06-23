@@ -1,4 +1,6 @@
-[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079)
+**Multi-view reconstruction(model-free)**:
+
+​	[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079)
 
 Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting	
 
@@ -6,9 +8,17 @@ Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaus
 
 [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://arxiv.org/abs/2308.09713)
 
-
-
 DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
+
+
+
+**4D reconstruction(model base)**
+
+​	 [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/pdf/2406.10324) from a single video
+
+
+
+
 
 
 
