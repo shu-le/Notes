@@ -168,9 +168,15 @@ CVPR:
 
 
 
-ICLR 25:
+ICLR 24:
 
 ​	[Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339)
+
+​	[Contrastive Preference Learning: Learning from Human Feedback without RL](https://arxiv.org/abs/2310.13639)
+
+​	[Compositional preference models for aligning LMs](https://arxiv.org/abs/2310.13011)
+
+​	**[Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models](https://arxiv.org/abs/2404.01863)** reward model ensemble
 
 
 
