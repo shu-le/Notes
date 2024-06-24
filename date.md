@@ -18,6 +18,14 @@ Long-CLIP: Unlocking the Long-Text Capability of CLIP
 
 [Understanding the performance gap between online and offline alignment algorithms](https://arxiv.org/abs/2405.08448)
 
+[Beyond One-Preference-Fits-All Alignment: **Multi-Objective Direct Preference Optimization**](https://arxiv.org/abs/2310.03708)
+
+
+
+dataset:
+
+​	[MantisScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/abs/2406.15252)
+
 
 
 ICML24: 
@@ -92,7 +100,7 @@ NeurIPS
 
 ​	[Vript: A Video Is Worth Thousands of Words](https://arxiv.org/abs/2406.06040)
 
-​	[**Splatter a Video: Video Gaussian Representation for Versatile Processing**](https://arxiv.org/abs/2406.13870)
+​	[**Splatter a Video: Video Gaussian Representation for Versatile Processing**](https://arxiv.org/abs/2406.13870)(或许可以用来reward)
 
 
 
@@ -140,6 +148,8 @@ NeurIPS
 
 ​	[L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324)
 
+​	[A3D: Does Diffusion Dream about 3D Alignment?](https://arxiv.org/abs/2406.15020v1) 可能有用
+
 ​	
 
 ECCV
@@ -155,6 +165,12 @@ ECCV
 CVPR:
 
 ​	[InstructRL4Pix: Training Diffusion for Image Editing by Reinforcement Learning](https://arxiv.org/abs/2406.09973)
+
+
+
+ICLR 25:
+
+​	[Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339)
 
 
 

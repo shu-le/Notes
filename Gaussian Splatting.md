@@ -6,9 +6,9 @@ Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaus
 
 ​	3D gaussian expand to 4D, add t dimension
 
-[Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://arxiv.org/abs/2308.09713)
+​	[Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://arxiv.org/abs/2308.09713)
 
-DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
+​	DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
 
 
 
@@ -18,7 +18,15 @@ DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
 
 
 
+**Multi-view reconstruction(model-base)**:
 
+​	[GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation](https://arxiv.org/abs/2406.15333)
+
+
+
+**3D generation:** 
+
+​	[Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models](https://arxiv.org/abs/2406.13099)
 
 
 
