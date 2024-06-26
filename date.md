@@ -88,6 +88,8 @@ NeurIPS
 
 ​	[SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset](https://arxiv.org/abs/2406.14477)
 
+​	[Aligning Diffusion Models with Noise-Conditioned Perception](https://arxiv.org/abs/2406.17636)
+
 
 
 ​	Video:
@@ -101,6 +103,10 @@ NeurIPS
 ​	[Vript: A Video Is Worth Thousands of Words](https://arxiv.org/abs/2406.06040)
 
 ​	[**Splatter a Video: Video Gaussian Representation for Versatile Processing**](https://arxiv.org/abs/2406.13870)(或许可以用来reward)
+
+​	[MotionBooth: Motion-Aware Customized Text-to-Video Generation](https://arxiv.org/abs/2406.17758)
+
+​	[Video-Infinity: Distributed Long Video Generation](https://arxiv.org/abs/2406.16260)
 
 
 
@@ -137,6 +143,8 @@ NeurIPS
 ​	[VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://arxiv.org/abs/2406.10227)
 
 ​	[GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation](https://arxiv.org/abs/2406.13743)
+
+​	[EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models](https://arxiv.org/abs/2406.16562)
 
 
 
@@ -196,3 +204,4 @@ ICLR 24:
 
 [FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition](https://arxiv.org/abs/2405.13870)
 
+[Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling](https://arxiv.org/abs/2406.16695)
