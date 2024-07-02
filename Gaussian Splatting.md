@@ -10,6 +10,12 @@ Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaus
 
 ​	DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
 
+​	[On Scaling Up 3D Gaussian Splatting Training](https://arxiv.org/abs/2406.18533)
+
+​	[SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting](https://arxiv.org/abs/2406.20055)
+
+​	[Lightweight Predictive 3D Gaussian Splats](https://arxiv.org/abs/2406.19434)
+
 
 
 **4D reconstruction(model base)**

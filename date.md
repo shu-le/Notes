@@ -1,24 +1,28 @@
-[3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)
+Other:
 
-Long-CLIP: Unlocking the Long-Text Capability of CLIP
+​	[3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)
 
-[What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885) 解释sd
+​	Long-CLIP: Unlocking the Long-Text Capability of CLIP
 
-[Distributional Preference Alignment of LLMs via Optimal Transport](https://arxiv.org/abs/2406.05882)
+​	[What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885) 解释sd
 
-[Multi-objective Reinforcement learning from AI Feedback](https://arxiv.org/abs/2406.07295)
+​	[Distributional Preference Alignment of LLMs via Optimal Transport](https://arxiv.org/abs/2406.05882)
 
-[Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback](https://arxiv.org/abs/2406.06874)
+​	[Multi-objective Reinforcement learning from AI Feedback](https://arxiv.org/abs/2406.07295)
 
-[Direct Language Model Alignment from Online AI Feedback](https://arxiv.org/abs/2402.04792) 各种算法Online差别不大但都比Offline好
+​	[Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback](https://arxiv.org/abs/2406.06874)
 
-[DPO Meets PPO: Reinforced Token Optimization for RLHF](https://arxiv.org/pdf/2404.18922)
+​	[Direct Language Model Alignment from Online AI Feedback](https://arxiv.org/abs/2402.04792) 各种算法Online差别不大但都比Offline好
 
-[Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts](https://arxiv.org/abs/2406.12845)
+​	[DPO Meets PPO: Reinforced Token Optimization for RLHF](https://arxiv.org/pdf/2404.18922)
 
-[Understanding the performance gap between online and offline alignment algorithms](https://arxiv.org/abs/2405.08448)
+​	[Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts](https://arxiv.org/abs/2406.12845)
 
-[Beyond One-Preference-Fits-All Alignment: **Multi-Objective Direct Preference Optimization**](https://arxiv.org/abs/2310.03708)
+​	[Understanding the performance gap between online and offline alignment algorithms](https://arxiv.org/abs/2405.08448)
+
+​	[Beyond One-Preference-Fits-All Alignment: **Multi-Objective Direct Preference Optimization**](https://arxiv.org/abs/2310.03708)
+
+​	[Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](https://arxiv.org/abs/2407.00617)
 
 
 
@@ -30,25 +34,31 @@ dataset:
 
 ICML24: 
 
-[Dense Reward for Free in Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2402.00782)
+​	[Dense Reward for Free in Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2402.00782)
 
-[Generative Active Learning for Long-tailed Instance Segmentation](https://arxiv.org/abs/2406.02435) 
+​	[Generative Active Learning for Long-tailed Instance Segmentation](https://arxiv.org/abs/2406.02435) 
 
-Visual-Language Models as Fuzzy Rewards for Reinforcement Learning
+​	Visual-Language Models as Fuzzy Rewards for Reinforcement Learning
 
-[Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint](https://arxiv.org/abs/2312.11456)
+​	[Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint](https://arxiv.org/abs/2312.11456)
 
-[Token-level Direct Preference Optimization](https://arxiv.org/abs/2404.11999)
+​	[Token-level Direct Preference Optimization](https://arxiv.org/abs/2404.11999)
 
-[Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences](https://arxiv.org/abs/2403.01857)
+​	[Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences](https://arxiv.org/abs/2403.01857)
 
-[A Dense Reward View on Aligning Text-to-Image Diffusion with Preference](https://arxiv.org/abs/2402.08265)
+​	[A Dense Reward View on Aligning Text-to-Image Diffusion with Preference](https://arxiv.org/abs/2402.08265)
+
+​	On Discrete Prompt Optimization for Diffusion Models
 
 
 
 video:
 
 [Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning](https://arxiv.org/abs/2402.11435)
+
+[4Diffusion: Multi-view Video Diffusion Model for 4D Generation](https://arxiv.org/abs/2405.20674)
+
+[Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](https://arxiv.org/abs/2405.16645)
 
 
 
@@ -90,6 +100,10 @@ NeurIPS
 
 ​	[Aligning Diffusion Models with Noise-Conditioned Perception](https://arxiv.org/abs/2406.17636)
 
+​	[Pareto-Optimal Learning from Preferences with Hidden Context](https://arxiv.org/abs/2406.15599)
+
+​	[Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models](https://arxiv.org/abs/2407.00626)
+
 
 
 ​	Video:
@@ -107,6 +121,12 @@ NeurIPS
 ​	[MotionBooth: Motion-Aware Customized Text-to-Video Generation](https://arxiv.org/abs/2406.17758)
 
 ​	[Video-Infinity: Distributed Long Video Generation](https://arxiv.org/abs/2406.16260)
+
+​	[What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/abs/2406.19568)
+
+​	[SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix](https://arxiv.org/abs/2407.00367)
+
+​	[Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models](https://arxiv.org/abs/2407.00626)
 
 
 
@@ -146,6 +166,10 @@ NeurIPS
 
 ​	[EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models](https://arxiv.org/abs/2406.16562)
 
+​	[Evaluation of Text-to-Video Generation Models: A Dynamics Perspective](https://arxiv.org/abs/2407.01094)
+
+​	[Rethinking LLM-based Preference Evaluation](https://arxiv.org/abs/2407.01085)
+
 
 
 ​	Gaussian:
@@ -159,6 +183,14 @@ NeurIPS
 ​	[A3D: Does Diffusion Dream about 3D Alignment?](https://arxiv.org/abs/2406.15020v1) 可能有用
 
 ​	
+
+​	Other:
+
+​	[Mixture of In-Context Experts Enhance LLMs' Long Context Awareness](https://arxiv.org/abs/2406.19598)
+
+​	[Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs](https://arxiv.org/abs/2407.00945)
+
+
 
 ECCV
 
@@ -174,6 +206,8 @@ CVPR:
 
 ​	[InstructRL4Pix: Training Diffusion for Image Editing by Reinforcement Learning](https://arxiv.org/abs/2406.09973)
 
+​	[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback]
+
 
 
 ICLR 24:
@@ -185,6 +219,24 @@ ICLR 24:
 ​	[Compositional preference models for aligning LMs](https://arxiv.org/abs/2310.13011)
 
 ​	**[Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models](https://arxiv.org/abs/2404.01863)** reward model ensemble
+
+​	[Reward Model Ensembles Help Mitigate Overoptimization](https://arxiv.org/abs/2310.02743)
+
+​	[Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF](https://arxiv.org/abs/2312.08358)
+
+​	Multi-Task Reinforcement Learning with Mixture of Orthogonal Experts
+
+​	[Mixture of LoRA Experts](https://arxiv.org/abs/2404.13628)
+
+
+
+ICLR 25:
+
+​	[HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model](https://arxiv.org/abs/2406.20077)
+
+​	[Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model](https://arxiv.org/abs/2406.19905)
+
+​	[StyleShot: A Snapshot on Any Style](https://arxiv.org/abs/2407.01414)
 
 
 
