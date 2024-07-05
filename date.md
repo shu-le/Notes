@@ -8,6 +8,8 @@ Other:
 
 ​	[Distributional Preference Alignment of LLMs via Optimal Transport](https://arxiv.org/abs/2406.05882)
 
+​	[MOT: A Mixture of Actors Reinforcement Learning Method by Optimal Transport for Algorithmic Trading](https://arxiv.org/abs/2407.01577) 最优传输
+
 ​	[Multi-objective Reinforcement learning from AI Feedback](https://arxiv.org/abs/2406.07295)
 
 ​	[Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback](https://arxiv.org/abs/2406.06874)
@@ -23,6 +25,12 @@ Other:
 ​	[Beyond One-Preference-Fits-All Alignment: **Multi-Objective Direct Preference Optimization**](https://arxiv.org/abs/2310.03708)
 
 ​	[Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](https://arxiv.org/abs/2407.00617)
+
+​	Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation 【Multi reward】
+
+
+
+​	[Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models](https://arxiv.org/abs/2407.02482) **[可能用到]**
 
 
 
@@ -48,7 +56,7 @@ ICML24:
 
 ​	[A Dense Reward View on Aligning Text-to-Image Diffusion with Preference](https://arxiv.org/abs/2402.08265)
 
-​	On Discrete Prompt Optimization for Diffusion Models
+​	[On Discrete Prompt Optimization for Diffusion Models](https://arxiv.org/abs/2407.01606)
 
 
 
@@ -104,6 +112,10 @@ NeurIPS
 
 ​	[Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models](https://arxiv.org/abs/2407.00626)
 
+​	[Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://arxiv.org/abs/2407.02477)
+
+​	[Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization](https://arxiv.org/abs/2407.01648) 写作参考
+
 
 
 ​	Video:
@@ -128,6 +140,8 @@ NeurIPS
 
 ​	[Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models](https://arxiv.org/abs/2407.00626)
 
+​	[OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://arxiv.org/abs/2407.02371)
+
 
 
 ​	Image: 
@@ -145,6 +159,8 @@ NeurIPS
 ​	[Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance](https://arxiv.org/abs/2406.07540)
 
 ​	[Interpreting the Weight Space of Customized Diffusion Models](https://arxiv.org/abs/2406.09413)
+
+​	[Magic Insert: Style-Aware Drag-and-Drop](https://arxiv.org/abs/2407.02489)
 
 
 
@@ -172,7 +188,7 @@ NeurIPS
 
 
 
-​	Gaussian:
+​	3D:
 
 ​	[Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/abs/2406.04338)
 
@@ -182,7 +198,15 @@ NeurIPS
 
 ​	[A3D: Does Diffusion Dream about 3D Alignment?](https://arxiv.org/abs/2406.15020v1) 可能有用
 
+​	[ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/abs/2407.02040)
+
 ​	
+
+​	Flow:
+
+​	[Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](https://arxiv.org/abs/2407.02398)
+
+
 
 ​	Other:
 
@@ -237,6 +261,12 @@ ICLR 25:
 ​	[Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model](https://arxiv.org/abs/2406.19905)
 
 ​	[StyleShot: A Snapshot on Any Style](https://arxiv.org/abs/2407.01414)
+
+
+
+CVPR 25
+
+​	[InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
 
 
 
