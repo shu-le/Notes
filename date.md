@@ -198,6 +198,8 @@ NeurIPS
 
 ​	[A3D: Does Diffusion Dream about 3D Alignment?](https://arxiv.org/abs/2406.15020v1) 可能有用
 
+​	[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text](https://arxiv.org/abs/2406.17601)
+
 ​	[ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/abs/2407.02040)
 
 ​	
@@ -220,7 +222,7 @@ ECCV
 
 ​	[Diffusion Soup: Model Merging for Text-to-Image Diffusion Models](https://arxiv.org/abs/2406.08431)
 
-
+​	[Getting it Right: Improving Spatial Consistency in Text-to-Image Models](https://arxiv.org/abs/2404.01197)
 
 ​	[LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054)
 
