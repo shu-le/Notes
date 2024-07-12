@@ -32,6 +32,8 @@ Other:
 
 ​	[Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models](https://arxiv.org/abs/2407.02482) **[可能用到]**
 
+​	[Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards](https://arxiv.org/abs/2306.04488)
+
 
 
 dataset:
@@ -76,7 +78,7 @@ NeurIPS
 
 ​	[Information Theoretic Text-to-Image Alignment](https://arxiv.org/abs/2405.20759)
 
-​	Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback
+​	[Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback](https://arxiv.org/abs/2405.20216)
 
 ​	[Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms](https://arxiv.org/abs/2406.02900)
 
@@ -115,6 +117,10 @@ NeurIPS
 ​	[Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://arxiv.org/abs/2407.02477)
 
 ​	[Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization](https://arxiv.org/abs/2407.01648) 写作参考
+
+​	
+
+​	[Video Diffusion Alignment via Reward Gradients](https://arxiv.org/abs/2407.08737)
 
 
 
@@ -202,6 +208,8 @@ NeurIPS
 
 ​	[ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/abs/2407.02040)
 
+​	[Controlling Space and Time with Diffusion Models](https://arxiv.org/pdf/2407.07860)
+
 ​	
 
 ​	Flow:
@@ -226,6 +234,8 @@ ECCV
 
 ​	[LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054)
 
+​	[**Scaling Up Personalized Image Aesthetic Assessment via Task Vector Customization**](https://arxiv.org/pdf/2407.07176)
+
 ​	
 
 CVPR:
@@ -233,6 +243,8 @@ CVPR:
 ​	[InstructRL4Pix: Training Diffusion for Image Editing by Reinforcement Learning](https://arxiv.org/abs/2406.09973)
 
 ​	[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback]
+
+​	[Learning Multi-dimensional Human Preference for Text-to-Image Generation](https://arxiv.org/abs/2405.14705)
 
 
 
@@ -270,13 +282,15 @@ CVPR 25
 
 ​	[InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
 
+​	[Still-Moving: Customized Video Generation without Customized Video Data](https://arxiv.org/abs/2407.08674)
+
+​	[MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis](https://arxiv.org/pdf/2407.07614)
+
 
 
 待看:
 
 [Video Diffusion Models are Training-free Motion Interpreter and Controller](https://arxiv.org/abs/2405.14864)
-
-[Learning Multi-dimensional Human Preference for Text-to-Image Generation](https://arxiv.org/abs/2405.14705)
 
 [Neuroexplicit Diffusion Models for Inpainting of Optical Flow Fields](https://arxiv.org/abs/2405.14599)
 
