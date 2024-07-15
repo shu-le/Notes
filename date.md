@@ -34,6 +34,8 @@ Other:
 
 ​	[Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards](https://arxiv.org/abs/2306.04488)
 
+​	[Stylus: Automatic Adapter Selection for Diffusion Models](https://arxiv.org/pdf/2404.18928)
+
 
 
 dataset:
@@ -118,7 +120,7 @@ NeurIPS
 
 ​	[Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization](https://arxiv.org/abs/2407.01648) 写作参考
 
-​	
+​	[Q-Adapter: Training Your LLM Adapter as a Residual Q-Function](https://arxiv.org/pdf/2407.03856)
 
 ​	[Video Diffusion Alignment via Reward Gradients](https://arxiv.org/abs/2407.08737)
 
@@ -170,7 +172,7 @@ NeurIPS
 
 
 
-​	Evaluate and Benchmark:
+​	Evaluate and Benchmark or Dataset:
 
 ​	[A-Bench: Are LMMs Masters at Evaluating AI-generated Images?](https://arxiv.org/abs/2406.03070) Benchmark
 
@@ -192,6 +194,8 @@ NeurIPS
 
 ​	[Rethinking LLM-based Preference Evaluation](https://arxiv.org/abs/2407.01085)
 
+​	**[MJ-BENCH: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?](https://arxiv.org/pdf/2407.04842)**  multi-dimensional preference dataset
+
 
 
 ​	3D:
@@ -209,6 +213,8 @@ NeurIPS
 ​	[ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/abs/2407.02040)
 
 ​	[Controlling Space and Time with Diffusion Models](https://arxiv.org/pdf/2407.07860)
+
+​	[Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images](https://arxiv.org/pdf/2407.06191) 图
 
 ​	
 
@@ -236,6 +242,8 @@ ECCV
 
 ​	[**Scaling Up Personalized Image Aesthetic Assessment via Task Vector Customization**](https://arxiv.org/pdf/2407.07176)
 
+​	[Large-scale Reinforcement Learning for Diffusion Models](https://arxiv.org/pdf/2401.12244)
+
 ​	
 
 CVPR:
@@ -245,6 +253,8 @@ CVPR:
 ​	[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback]
 
 ​	[Learning Multi-dimensional Human Preference for Text-to-Image Generation](https://arxiv.org/abs/2405.14705)
+
+​	[Rich Human Feedback for Text-to-Image Generation](https://arxiv.org/pdf/2312.10240)
 
 
 
