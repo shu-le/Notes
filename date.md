@@ -62,6 +62,14 @@ ICML24:
 
 ​	[On Discrete Prompt Optimization for Diffusion Models](https://arxiv.org/abs/2407.01606)
 
+​	[Active Preference Learning for Large Language Models](https://arxiv.org/pdf/2402.08114)
+
+​	[Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/pdf/2402.10207)
+
+​	[Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback](https://arxiv.org/pdf/2401.11458)
+
+​	MaxMin-RLHF: Alignment with Diverse Human Preferences
+
 
 
 video:
@@ -124,6 +132,10 @@ NeurIPS
 
 ​	[Video Diffusion Alignment via Reward Gradients](https://arxiv.org/abs/2407.08737)
 
+​	[β-DPO: Direct Preference Optimization with Dynamic β](https://arxiv.org/pdf/2407.08639)
+
+​	[Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences](https://arxiv.org/pdf/2407.09499)
+
 
 
 ​	Video:
@@ -148,7 +160,11 @@ NeurIPS
 
 ​	[Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models](https://arxiv.org/abs/2407.00626)
 
+​	[Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT](https://arxiv.org/pdf/2406.18583)
+
 ​	[OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://arxiv.org/abs/2407.02371)
+
+​	[InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models](https://arxiv.org/pdf/2407.10958)
 
 
 
@@ -169,6 +185,8 @@ NeurIPS
 ​	[Interpreting the Weight Space of Customized Diffusion Models](https://arxiv.org/abs/2406.09413)
 
 ​	[Magic Insert: Style-Aware Drag-and-Drop](https://arxiv.org/abs/2407.02489)
+
+​	[Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation](https://arxiv.org/pdf/2406.01561)
 
 
 
