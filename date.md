@@ -70,6 +70,8 @@ ICML24:
 
 ​	MaxMin-RLHF: Alignment with Diverse Human Preferences
 
+​	[Feedback Efficient Online Fine-Tuning of Diffusion Models](https://arxiv.org/abs/2402.16359)
+
 
 
 video:
@@ -136,6 +138,8 @@ NeurIPS
 
 ​	[Self-Consuming Generative Models with Curated Data Provably Optimize Human Preferences](https://arxiv.org/pdf/2407.09499)
 
+​	[Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning](https://arxiv.org/abs/2407.12164)
+
 
 
 ​	Video:
@@ -166,6 +170,10 @@ NeurIPS
 
 ​	[InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models](https://arxiv.org/pdf/2407.10958)
 
+​	[VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](https://arxiv.org/pdf/2407.12781)
+
+​	[VideoTetris: Towards Compositional Text-to-Video Generation](https://arxiv.org/pdf/2406.04277)
+
 
 
 ​	Image: 
@@ -187,6 +195,10 @@ NeurIPS
 ​	[Magic Insert: Style-Aware Drag-and-Drop](https://arxiv.org/abs/2407.02489)
 
 ​	[Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation](https://arxiv.org/pdf/2406.01561)
+
+​	[**Scaling Diffusion Transformers to 16 Billion Parameters**](https://arxiv.org/pdf/2407.11633)
+
+​	[Beta Sampling is All You Need: Efficient Image Generation Strategy for Diffusion Models using Stepwise Spectral Analysis](https://arxiv.org/pdf/2407.12173) 频率分析
 
 
 
@@ -234,7 +246,15 @@ NeurIPS
 
 ​	[Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images](https://arxiv.org/pdf/2407.06191) 图
 
+​	[Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion](https://arxiv.org/pdf/2407.13759)
+
 ​	
+
+​	4D:
+
+​	[Animate3D: Animating Any 3D Model with Multi-view Video Diffusion](https://arxiv.org/pdf/2407.11398)
+
+
 
 ​	Flow:
 
@@ -261,6 +281,8 @@ ECCV
 ​	[**Scaling Up Personalized Image Aesthetic Assessment via Task Vector Customization**](https://arxiv.org/pdf/2407.07176)
 
 ​	[Large-scale Reinforcement Learning for Diffusion Models](https://arxiv.org/pdf/2401.12244)
+
+​	[Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation](https://arxiv.org/abs/2407.13584)
 
 ​	
 

@@ -20,7 +20,15 @@ Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaus
 
 **4D reconstruction(model base)**
 
-​	 [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/pdf/2406.10324) from a single video
+
+
+​	 [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/pdf/2406.10324) Monocular  reconstruction
+
+
+
+**4D reconstruction(model base)**
+
+​	[Shape of Motion: 4D Reconstruction from a Single Video](https://arxiv.org/pdf/2407.13764)  
 
 
 
@@ -36,9 +44,13 @@ Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaus
 
 
 
+**Edit**
+
+​	[StyleSplat: 3D Object Style Transfer with Gaussian Splatting](https://arxiv.org/abs/2407.09473)
+
+
+
 ### CVPR2024
-
-
 
 #### Gaussian
 
