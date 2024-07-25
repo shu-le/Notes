@@ -50,6 +50,16 @@ Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaus
 
 
 
+**Scene**
+
+​	**Indoor**
+
+​	**Outdoor**
+
+​		[WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/pdf/2407.08447)
+
+
+
 ### CVPR2024
 
 #### Gaussian

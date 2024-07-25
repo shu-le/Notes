@@ -140,6 +140,8 @@ NeurIPS
 
 ​	[Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning](https://arxiv.org/abs/2407.12164)
 
+​	[Rule Based Rewards for Language Model Safety](https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf)
+
 
 
 ​	Video:
@@ -173,6 +175,8 @@ NeurIPS
 ​	[VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](https://arxiv.org/pdf/2407.12781)
 
 ​	[VideoTetris: Towards Compositional Text-to-Video Generation](https://arxiv.org/pdf/2406.04277)
+
+​	[Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models ](https://arxiv.org/pdf/2407.15642) learn motion residuals
 
 
 
@@ -226,6 +230,8 @@ NeurIPS
 
 ​	**[MJ-BENCH: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?](https://arxiv.org/pdf/2407.04842)**  multi-dimensional preference dataset
 
+​	[T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation](https://arxiv.org/pdf/2407.14505)
+
 
 
 ​	3D:
@@ -254,7 +260,7 @@ NeurIPS
 
 ​	[Animate3D: Animating Any 3D Model with Multi-view Video Diffusion](https://arxiv.org/pdf/2407.11398)
 
-
+​	[SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://arxiv.org/pdf/2407.17470)
 
 ​	Flow:
 
@@ -335,6 +341,8 @@ CVPR 25
 ​	[Still-Moving: Customized Video Generation without Customized Video Data](https://arxiv.org/abs/2407.08674)
 
 ​	[MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis](https://arxiv.org/pdf/2407.07614)
+
+​	[Artist: Aesthetically Controllable Text-Driven Stylization without Training ](https://arxiv.org/pdf/2407.15842) content and style
 
 
 
