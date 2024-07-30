@@ -36,6 +36,8 @@ Other:
 
 ​	[Stylus: Automatic Adapter Selection for Diffusion Models](https://arxiv.org/pdf/2404.18928)
 
+​	[In Search for Architectures and Loss Functions in Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2407.16807) MORL
+
 
 
 dataset:
@@ -289,6 +291,10 @@ ECCV
 ​	[Large-scale Reinforcement Learning for Diffusion Models](https://arxiv.org/pdf/2401.12244)
 
 ​	[Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation](https://arxiv.org/abs/2407.13584)
+
+​	RLHF:
+
+​	[ViPer: Visual Personalization of Generative Models via Individual Preference Learning](https://arxiv.org/abs/2407.17365)
 
 ​	
 
