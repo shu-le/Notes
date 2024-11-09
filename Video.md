@@ -22,6 +22,8 @@
 
 ​	propose DiT-MoE, which is scalable and competitive with dense networks while exhibiting highly optimized inference. 
 
+[Allegro: Open the Black Box of Commercial-Level Video Generation Model](https://arxiv.org/abs/2410.15458) 
+
 #### Pioneer Base model & UNet
 
 [Video Diffusion Models](https://arxiv.org/abs/2204.03458)
@@ -68,6 +70,12 @@
 
 ​	learn motion residuals
 
+
+
+#### ID Perserve Generation
+
+[Imagine yourself: Tuning-Free Personalized Image Generation](https://arxiv.org/abs/2409.13346) 
+
 #### Long video generation
 
 [NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation](https://arxiv.org/abs/2303.12346)
@@ -83,6 +91,8 @@
 [Video-Infinity: Distributed Long Video Generation](https://arxiv.org/abs/2406.16260)
 
 ​	GPU distributed generation
+
+[ZoLA: Zero-Shot Creative Long Animation Generation with Short Video Model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06174.pdf) ECCV Oral
 
 #### Video&Image story generation
 
@@ -118,6 +128,10 @@
 
 [Compositional 3D-aware Video Generation with LLM Director](https://arxiv.org/abs/2409.00558)
 
+[DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework](https://arxiv.org/abs/2408.11788)
+
+
+
 #### Evaluate
 
 [VIDEOPHY: Evaluating Physical Commonsense for Video Generation](https://arxiv.org/abs/2406.03520)
@@ -138,8 +152,44 @@
 
 [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](https://arxiv.org/abs/2402.19479) 
 
+[TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for Image-to-Video Generation](https://arxiv.org/abs/2411.04709) 
+
+#### Face
+
+[Imagine yourself: Tuning-Free Personalized Image Generation](https://arxiv.org/abs/2409.13346)
+
 
 
 [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](https://arxiv.org/abs/2408.16767)
 [Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation](https://arxiv.org/abs/2408.15239)
 [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://www.arxiv.org/abs/2408.12590)
+
+
+
+Image to Video: 
+
+Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+
+TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models
+
+
+
+Video Interpolation: 
+
+SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation
+
+[Framer: Interactive Frame Interpolation](https://arxiv.org/abs/2410.18978)
+
+
+
+Camera:
+
+[CamI2V: Camera-Controlled Image-to-Video Diffusion Model](https://arxiv.org/abs/2410.15957)
+
+
+
+E.T. the Exceptional Trajectories: Text-to-camera-trajectory generation with character awareness
+
+#### 4D
+
+[DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928) 

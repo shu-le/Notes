@@ -13,3 +13,13 @@
 ### Survey
 
 MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training
+
+
+
+Alignmrnt:
+
+[Decoding-Time Language Model Alignment with Multiple Objectives](https://arxiv.org/abs/2406.18853) NeurIPS
+
+[PAD: Personalized Alignment of LLMs at Decoding-Time](https://arxiv.org/abs/2410.04070)
+
+[Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207) ICML
